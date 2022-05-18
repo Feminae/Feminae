@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <a href="https://feminae.github.io" target="_blank" title="GitHub Pages (New tab)">@feminae</a>
+- 👋 Hi, I’m <a href="https://feminae.github.io" target="_blank" title="My GitHub Pages">@feminae</a>
 - 👀 I’m interested by development, design and helping
 - 🌱 I’m currently learning and used web development
 - 💞️ I’m looking to collaborate on ...
