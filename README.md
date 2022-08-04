@@ -1,11 +1,11 @@
-- 👋 Hi, I’m <a href="https://to.no2no.eu.org/home" target="_blank" title="My Website">Nono</a> alias <a href="https://to.no2no.eu.org/github" target="_blank" title="My GitHub Repository">@nyshinalys</a> or <a href="https://to.no2no.eu.org/github2" target="_blank" title="My Old GitHub Repository">@no2no</a>
+- 👋 Hi, I’m <a href="#" target="_blank" title="My Website">Nysh</a> alias <a href="https://github.com/nysheal" target="_blank" title="My GitHub Repository">@nysheal</a> or <a href="https://github.com/nysheals" target="_blank" title="My Archived GitHub Repository">@nysheals</a>
 - 👀 I’m interested by development, design and helping
 - 🌱 I’m currently learning and used web development
-- 💞️ I’m looking to collaborate on <a href="https://to.no2no.eu.org/github/ninjin" title="Hedaox/Ninjin">Hedaox/Ninjin</a>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://to.no2no.eu.org/donate)
+- 💞️ I’m looking to collaborate on <a href="https://github.com/Hedaox/Ninjin/commits?author=nysheal" title="Hedaox/Ninjin">Hedaox/Ninjin</a>
 
 <!---
-nyshinalys/nyshinalys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://to.no2no.eu.org/donate)
+
+nysheal/nysheal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
